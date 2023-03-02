@@ -1,4 +1,4 @@
-# **ChatGPT Clone with Gradio**
+# **ChatGPT with Gradio**
 This is a ChatGPT clone built using OpenAI's GPT-3 model and integrated with Gradio for an easy-to-use user interface. Gradio provides a simple way to interact with the conversational AI model without the need for programming knowledge.
 
 **Installation**
@@ -10,7 +10,7 @@ Once you have these prerequisites installed, you can install the necessary Pytho
 
 Copy code
 just run the following command:
-pip install openai
+    pip install openai
 Usage
 To start the ChatGPT clone, you can run the chat.py file in your terminal or command prompt:
 
