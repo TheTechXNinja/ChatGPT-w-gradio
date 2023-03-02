@@ -1,4 +1,4 @@
-#**ChatGPT Clone with Gradio**
+# **ChatGPT Clone with Gradio**
 This is a ChatGPT clone built using OpenAI's GPT-3 model and integrated with Gradio for an easy-to-use user interface. Gradio provides a simple way to interact with the conversational AI model without the need for programming knowledge.
 
 **Installation**
